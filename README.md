@@ -16,6 +16,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=555hehe555&theme=tokyonight" alt="GitHub Streak Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=555hehe555&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </p>
 
 ---
