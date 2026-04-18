@@ -20,11 +20,6 @@
   <!--END_SECTION:waka-->
 </p>
 
----
-
-### GitHub Трофеї:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=555hehe555&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
