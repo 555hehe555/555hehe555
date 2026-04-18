@@ -24,9 +24,7 @@
 
 ### GitHub Трофеї:
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=555hehe555&theme=tokyonight&row=1&column=7" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
