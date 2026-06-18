@@ -13,8 +13,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=555hehe555&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=555hehe555&theme=tokyonight" alt="GitHub Streak Stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=555hehe555&layout=compact&theme=tokyonight" alt="Most Used Languages" />
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
@@ -25,10 +23,18 @@
 
 ### Основні навички:
 
-**Веб-розробка:**
-- Python, Django
+**frontend:**
 - HTML, CSS, JavaScript
-- JSON, REST API
+
+**backend**
+- Python, Django, DRF
+
+*всякі додаткові*
+- JSON, REST API, CRUD
+
+
+#### Планую вивчити
+- react.js, scss
 
 ---
 
